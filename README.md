@@ -1,4 +1,5 @@
 # End-to-End_Cricket_Player_Analytics
+<img width="1322" height="740" alt="Final11" src="https://github.com/user-attachments/assets/3530c130-502f-43fc-9688-febea5541766" />
 
 ## 📌 Project Overview
 This project is an interactive Data Analytics and Business Intelligence dashboard built to assemble the ultimate "Best 11" cricket team from the ICC Men's T20 World Cup 2022. Operating under the philosophy of *"We don’t know the strengths and weaknesses of our opponents, but give me the best 11 from this planet,"* this project uses advanced data modeling and parameter scoping to objectively evaluate player performance. 
